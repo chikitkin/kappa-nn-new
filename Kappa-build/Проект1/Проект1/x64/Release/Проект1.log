@@ -1,0 +1,9 @@
+﻿  diffusion_air.cpp
+  Generating code
+c:\users\chikitkin\downloads\проект-20200514t111404z-001\проект\kappa\src\approximations\approximation.cpp(2306): warning C4715: 'kappa::Approximation::omega_integral': not all control paths return a value
+  122 of 3168 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    192 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Проект1.vcxproj -> C:\Users\chikitkin\Downloads\проект-20200514T111404Z-001\проект\Kappa-build\Проект1\x64\Release\Проект1.exe
+  Проект1.vcxproj -> C:\Users\chikitkin\Downloads\проект-20200514T111404Z-001\проект\Kappa-build\Проект1\x64\Release\Проект1.pdb (Full PDB)
