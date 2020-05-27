@@ -1,9 +1,12 @@
 ﻿  diffusion_air.cpp
+..\..\..\Kappa\tests\mixtures\diffusion_air.cpp(25): warning C4101: 'p': unreferenced local variable
+..\..\..\Kappa\tests\mixtures\diffusion_air.cpp(25): warning C4101: 'tot_ndens': unreferenced local variable
+..\..\..\Kappa\tests\mixtures\diffusion_air.cpp(38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Generating code
 c:\users\chikitkin\downloads\проект-20200514t111404z-001\проект\kappa\src\approximations\approximation.cpp(2306): warning C4715: 'kappa::Approximation::omega_integral': not all control paths return a value
-  122 of 3168 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
-    8 functions were new in current compilation
-    192 functions had inline decision re-evaluated but remain unchanged
+  104 of 3266 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    124 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   Проект1.vcxproj -> C:\Users\chikitkin\Downloads\проект-20200514T111404Z-001\проект\Kappa-build\Проект1\x64\Release\Проект1.exe
   Проект1.vcxproj -> C:\Users\chikitkin\Downloads\проект-20200514T111404Z-001\проект\Kappa-build\Проект1\x64\Release\Проект1.pdb (Full PDB)
